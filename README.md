@@ -30,7 +30,6 @@
 [![Video Preview](https://cdn.frvgs.com/youtube/preview_thumb.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
 
 ## ✨ Features
-
 - 🖥️ Added specific media query for 2160p (4K) monitors.
 - 📐 Adjusted the context menu for better visibility on larger screens.
 - 🖋️ Modified fonts to improve legibility on high-resolution displays.
@@ -38,13 +37,10 @@
 - 🌅 Included 30+ gradients from which you can choose to change the main theme.
   
 ## 📦 Installation
-
-### New Installation:
 1. Download the zip archive from this repo.
 2. Extract the contents to your resources folder.
 3. Add `ensure esx_context` to your server.cfg.
 
 
 ## 🛟 Support
-
 Join the [discord](https://discord.gg/wHhg6Zgbsa)  if you need support or custom UI design for your server.
