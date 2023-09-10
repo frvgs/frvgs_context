@@ -9,7 +9,7 @@
   <br />
   <div align="center">
     <a href="https://frvgs.com">Website</a> |
-    <a href="https://discord.gg/">Discord</a> |
+    <a href="https://discord.gg/wHhg6Zgbsa">Discord</a> |
     <a href="https://forum.cfx.re/u/frvgs">Forum</a> |
     <a href="https://docs.frvgs.com/">Docs</a>
   </div>
@@ -25,9 +25,9 @@
 
 </div>
 
-[![Video Preview](https://cdn.frvgs.com/core_preview/context_preview.png)](https://www.youtube.com/watch?v=o-M2wjaZfoo)
+[![Video Preview](https://cdn.frvgs.com/core_preview/context_preview.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
 
-[video-preview](https://youtube.com/watch?v=o-M2wjaZfoo)
+[![Video Preview](https://cdn.frvgs.com/youtube/preview_thumb.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
 
 ## ✨ Features
 
@@ -45,3 +45,6 @@
 3. Add `ensure esx_context` to your server.cfg.
 
 
+## 🛟 Support
+
+Join the [discord](https://discord.gg/wHhg6Zgbsa)  if you need support or custom UI design for your server.
