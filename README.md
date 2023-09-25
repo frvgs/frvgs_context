@@ -2,7 +2,7 @@
 
 <div align="center" style="margin: 30px;">
   <a href="https://frvgs.com/">
-      <img src="https://cdn.frvgs.com/banner.png" align="center" />
+    <img src="https://cdn.frvgs.com/banner_new.png" align="center" />
   </a>
 
 
@@ -11,7 +11,7 @@
     <a href="https://frvgs.com">Website</a> |
     <a href="https://discord.gg/wHhg6Zgbsa">Discord</a> |
     <a href="https://forum.cfx.re/u/frvgs">Forum</a> |
-    <a href="https://docs.frvgs.com/">Docs</a>
+    <a href="https://frvgs.com/docs">Docs</a>
   </div>
 </div>
 
@@ -27,7 +27,7 @@
 
 [![Video Preview](https://cdn.frvgs.com/core_preview/context_preview.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
 
-[![Video Preview](https://cdn.frvgs.com/youtube/preview_thumb.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
+[![Video Preview](https://cdn.frvgs.com/youtube/preview_thumb_new.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
 
 ## ✨ Features
 - 🖥️ Added specific media query for 2160p (4K) monitors.
